@@ -219,7 +219,7 @@ i frame{
 /*NEWS
 -------------------------------------*/
 #news {
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(https://github.com/rusuntic/WCB-Cafe/blob/main/news-bg.jpg?raw=true);
     height: 270px;
     margin-bottom: 40px;
 }
